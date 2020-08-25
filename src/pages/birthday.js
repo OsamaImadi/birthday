@@ -11,13 +11,17 @@ import {
 } from '@hackclub/design-system'
 import Body from '../components/Body'
 import Cards from '../components/Cards'
+import SecondBio from '../components/secondBio'
+import CardImage from '../components/cardImg'
 
 Card.a = Card.withComponent('article')
 
 export default () => (
   <Container maxWidth={36} p={3}>
-    <Helmet title={`Happy birthday, Max!`} />
-    <Card.a bg="white" p={4} mx={[-3, -4]}>
+    <Helmet title={`Hello Fatima Ahsen!`} />
+    <SecondBio />
+    <CardImage />
+    {/* <Card.a bg="white" p={4} mx={[-3, -4]}>
       <Heading.h1 color="primary" f={4} m={0} caps>
         Instructions
       </Heading.h1>
@@ -63,6 +67,6 @@ export default () => (
       </a>
       for this project.
 
-    </Card.a>
+    </Card.a> */}
   </Container>
 )

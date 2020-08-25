@@ -4,6 +4,8 @@ import ThemeProvider from '../theme'
 import { Text, mediaQueries } from '@hackclub/design-system'
 import Link from 'gatsby-link'
 import Bio from '../components/Bio'
+import Example from '../components/Textbox'
+import 'bootstrap/dist/css/bootstrap.css'
 
 const Future = Text.withComponent(Link).extend`
   text-align: center;
@@ -22,7 +24,7 @@ const Future = Text.withComponent(Link).extend`
 
 const Footer = () => (
   <Text color="snow" f={2} align="center" mt={4} mb={30}>
-    Made by your friends and community.
+    {" "}
   </Text>
 )
 
@@ -54,7 +56,6 @@ const Template = ({ children, ...props }) => (
     <Future to="/" color="snow" f={[5, 6, 7]} m={3} py={1} caps>
       🎂🎈🎁🌟
     </Future>
-    <Bio />
     {children()}
     <Footer />
   </ThemeProvider>
