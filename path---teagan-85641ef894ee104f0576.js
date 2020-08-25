@@ -1,0 +1,2 @@
+webpackJsonp([0xeb8a8a45856e],{523:function(a,t){a.exports={data:{markdownRemark:{html:"<h1>Happy Birthday Max!!!</h1>\n<p>Max, I remember you and Jonathan coming to Lowell in the first weeks of our Hack Club up and running, and putting on a sweet\nworkshop with twilio. You have been so crucial to the success of Hack Club, and it really shows. Wishing you a happy birthday\nfrom SoCal!</p>",frontmatter:{author:"teagan"}}},pathContext:{author:"teagan"}}}});
+//# sourceMappingURL=path---teagan-85641ef894ee104f0576.js.map

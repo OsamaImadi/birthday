@@ -1,0 +1,2 @@
+webpackJsonp([0x9ecf34b87b81],{529:function(t,e){t.exports={data:{markdownRemark:{html:"<p>OwO what’s this??? Itys youwr birffy wurffy! </p>\n<p><em>rawr</em> </p>\n<p>*notices your cake*</p>",frontmatter:{author:"zeke"}}},pathContext:{author:"zeke"}}}});
+//# sourceMappingURL=path---zeke-f3880859307cb3c67683.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x9522efe61dd8],{492:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Hey max, 👋</h1>\n<p>I remember the time you sat down with me during ChiHacks and we geeked out over backend servers - I think that perfectly captures what I think is so great about you. You’re able to truly relate to beginners on every level, which is what sets great teachers apart. Keep doing what you’re doing ➡️🏃.</p>",frontmatter:{author:"anton"}}},pathContext:{author:"anton"}}}});
+//# sourceMappingURL=path---anton-54eaa44936c749328924.js.map

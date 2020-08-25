@@ -1,0 +1,2 @@
+webpackJsonp([0xececefef52e4],{493:function(e,a){e.exports={data:{markdownRemark:{html:"<h1>Happy Birthday!!!!</h1>\n<p>I hope you’re doing well at Hack Club and I hope to see you at more events!! Have a wonderful birthday! </p>",frontmatter:{author:"areetaw"}}},pathContext:{author:"areetaw"}}}});
+//# sourceMappingURL=path---areetaw-628c5d0524efa1b2d27c.js.map

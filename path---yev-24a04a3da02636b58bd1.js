@@ -1,0 +1,2 @@
+webpackJsonp([0xf7a117f33174],{526:function(a,o){a.exports={data:{markdownRemark:{html:"<p>Hey Max!\nA happy birthday, yoda wishes you.</p>\n<p>Hack Club couldn’t have been as awesome without you and I wish you a great upcoming year!</p>\n<p>Oh, plus, my computer’s operating system now works and you should totally switch over to the Linux side again ;)</p>\n<p>Happy wishes,\nYev</p>",frontmatter:{author:"yev"}}},pathContext:{author:"yev"}}}});
+//# sourceMappingURL=path---yev-24a04a3da02636b58bd1.js.map

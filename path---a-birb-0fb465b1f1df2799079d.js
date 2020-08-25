@@ -1,0 +1,2 @@
+webpackJsonp([89888869404897],{487:function(a,b){a.exports={data:{markdownRemark:{html:"<p>bappy hirbday to u\nbappy hirbday to u\nbabby hirbday 2 uuuuuuu\nbappy hirbday to u</p>\n<p>🍕🍕🍕</p>",frontmatter:{author:"a birb"}}},pathContext:{author:"a birb"}}}});
+//# sourceMappingURL=path---a-birb-0fb465b1f1df2799079d.js.map

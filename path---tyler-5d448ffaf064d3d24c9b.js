@@ -1,0 +1,2 @@
+webpackJsonp([0xa98a8f42058b],{524:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Hello Max! Sorry if I’m a little late, but I wanted to thank you for everything you’ve done for Hack Club!</p>\n<p>Have a very happy birthday! </p>",frontmatter:{author:"tyler"}}},pathContext:{author:"tyler"}}}});
+//# sourceMappingURL=path---tyler-5d448ffaf064d3d24c9b.js.map

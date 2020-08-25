@@ -1,0 +1,2 @@
+webpackJsonp([0xa81ca79d8b94],{489:function(e,o){e.exports={data:{markdownRemark:{html:"<p>Hey Max, I’m not sure if you remember me but I defintely remember you. You were one of the original\npeople who actually encouraged me to code and got me to continue coding. I don’t think I would be\nanywhere close to where I am right now without meeting you and zach on irc. Happy Birthday Max!!</p>",frontmatter:{author:"alexb"}}},pathContext:{author:"alexb"}}}});
+//# sourceMappingURL=path---alexb-7f165d97b63a7a4aa1d5.js.map

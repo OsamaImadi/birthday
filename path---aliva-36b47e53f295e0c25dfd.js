@@ -1,0 +1,2 @@
+webpackJsonp([0x902ea009c22e],{491:function(a,t){a.exports={data:{markdownRemark:{html:"<p>happy birthday max! thanks for all that you do and for providing us with such amazing opportunities through hack club</p>",frontmatter:{author:"aliva"}}},pathContext:{author:"aliva"}}}});
+//# sourceMappingURL=path---aliva-36b47e53f295e0c25dfd.js.map

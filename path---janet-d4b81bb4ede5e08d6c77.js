@@ -1,0 +1,2 @@
+webpackJsonp([0xd493e5da4c27],{507:function(a,o){a.exports={data:{markdownRemark:{html:"<h1>HAPPY BIRTHDAY, MAX 🎉</h1>\n<p>I hope you’ve had a fantastic day! Thank you for all that you do for Hack Club &#x26; for always showing up to mentor + lead workshops at our CodeDay Bay Area events! 🙌</p>\n<p>Hope to see you at even more future hackathons &#x26; wish you another amazing year! </p>",frontmatter:{author:"janet"}}},pathContext:{author:"janet"}}}});
+//# sourceMappingURL=path---janet-d4b81bb4ede5e08d6c77.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xd84f3b69c25],{496:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Happy birthday! Bask in the inevitability of linear time!\nYour solar anniversary will constantly remind you that humans are ephemeral creatures and\nwill not  survive the coming heat death of the universe. </p>\n<p>But until then, I hope the cake (or other traditional dessert) is nice.</p>",frontmatter:{author:"brian"}}},pathContext:{author:"brian"}}}});
+//# sourceMappingURL=path---brian-4bb3b422385dd0178106.js.map

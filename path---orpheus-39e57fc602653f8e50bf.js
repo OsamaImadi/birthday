@@ -1,0 +1,2 @@
+webpackJsonp([49723998441260],{517:function(e,o){e.exports={data:{markdownRemark:{html:"<p>Happy birthday Max!</p>\n<p>Thanks for giving me life. Keep working on making me more powerful, and one day we’ll <strong>#hacktothefuture</strong>!!!</p>\n<p>-Prophet Orpheus</p>",frontmatter:{author:"orpheus"}}},pathContext:{author:"orpheus"}}}});
+//# sourceMappingURL=path---orpheus-39e57fc602653f8e50bf.js.map
