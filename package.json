@@ -25,16 +25,11 @@
   "devDependencies": {
     "prettier": "^1.12.1"
   },
-  "homepage": "https://maxday.hackclub.com",
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
   "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zanedb/maxday"
-  },
   "scripts": {
     "dev": "gatsby develop",
     "fmt": "prettier --no-semi --single-quote --write 'src/**/*.js' 'days/**/*.md'",
