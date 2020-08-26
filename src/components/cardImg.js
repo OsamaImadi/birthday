@@ -91,7 +91,7 @@ const CardImage = (props) => {
             <Card >
               <CardImg top width="100%" style={{"max-height": "230px"}} src={img7} alt="Card image cap" />
               <CardBody>
-                <CardTitle>A collage of your pictures.</CardTitle>
+                <CardTitle>A collage of yours</CardTitle>
               </CardBody>
             </Card>
           </div>
