@@ -77,7 +77,7 @@ import {
      <div style={{display: 'flex', justifyContent: 'center'}}>
         <LargeButton
           inverted
-          href="/birthday"
+          href="/wish"
           mb={4}
         >
           Continue
