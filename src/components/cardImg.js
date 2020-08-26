@@ -79,7 +79,7 @@ const CardImage = (props) => {
             <Card>
               <CardImg top width="100%" style={{"max-height": "230px"}}  src={img6} alt="Card image cap" />
               <CardBody>
-                <CardTitle>yep, another picture of you.</CardTitle>
+                <CardTitle>Another picture of you</CardTitle>
               </CardBody>
             </Card>
           </div>
