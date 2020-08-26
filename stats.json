@@ -12,17 +12,25 @@
       "path---lachlan-7ae9436479e303cd6429.js",
       "path---lachlan-7ae9436479e303cd6429.js.map"
     ],
+    "component---src-pages-wish-js": [
+      "component---src-pages-wish-js-e1fa0961cf741161ccf0.js",
+      "component---src-pages-wish-js-e1fa0961cf741161ccf0.js.map"
+    ],
     "path---michael": [
       "path---michael-a5af25fc4ff514d7a839.js",
       "path---michael-a5af25fc4ff514d7a839.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-11125b62d2353040998f.js",
-      "component---src-pages-index-js-11125b62d2353040998f.js.map"
+      "component---src-pages-index-js-efa5894bc0b4b10f9147.js",
+      "component---src-pages-index-js-efa5894bc0b4b10f9147.js.map"
     ],
     "path---seankim": [
       "path---seankim-d8b8d6fa024062b9dae6.js",
       "path---seankim-d8b8d6fa024062b9dae6.js.map"
+    ],
+    "path---wish": [
+      "path---wish-a0e39f21c11f6a62c5ab.js",
+      "path---wish-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---victor": [
       "path---victor-38736076f0dd5527afd6.js",
@@ -64,17 +72,13 @@
       "path---gmittal-3f35e6da65b90a93e4ec.js",
       "path---gmittal-3f35e6da65b90a93e4ec.js.map"
     ],
-    "component---src-pages-birthday-js": [
-      "component---src-pages-birthday-js-80b5691d40901b404d28.js",
-      "component---src-pages-birthday-js-80b5691d40901b404d28.js.map"
-    ],
     "path---alexis": [
       "path---alexis-49968bf6170b4ebeb5e0.js",
       "path---alexis-49968bf6170b4ebeb5e0.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-7a8dcdd5e5873122701c.js",
-      "component---src-layouts-index-js-7a8dcdd5e5873122701c.js.map"
+      "component---src-layouts-index-js-ff9c75b4af2e21a3291d.js",
+      "component---src-layouts-index-js-ff9c75b4af2e21a3291d.js.map"
     ],
     "path---matejmecka": [
       "path---matejmecka-21bcdd5340b2fd1586b3.js",
@@ -157,9 +161,9 @@
       "path---eilleen-2e2db3f70257ffb396a0.js.map"
     ],
     "app": [
-      "app-cb4fe201f2cb4b99aa68.js",
+      "app-efd85edf510ede37f002.js",
       "build-js-styles.css",
-      "app-cb4fe201f2cb4b99aa68.js.map",
+      "app-efd85edf510ede37f002.js.map",
       "build-js-styles.css.map"
     ],
     "path---janet": [
@@ -197,10 +201,6 @@
     "path---jake": [
       "path---jake-3edf9f540bb132c6bbb6.js",
       "path---jake-3edf9f540bb132c6bbb6.js.map"
-    ],
-    "path---birthday": [
-      "path---birthday-a0e39f21c11f6a62c5ab.js",
-      "path---birthday-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }

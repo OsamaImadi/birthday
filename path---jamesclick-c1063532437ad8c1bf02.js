@@ -1,2 +1,2 @@
-webpackJsonp([0xcba752ccf4a7],{505:function(a,o){a.exports={data:{markdownRemark:{html:"<p>Max,\nThanks for working to create one of the best programs for High School. Happy Birthday!</p>",frontmatter:{author:"jamesclick"}}},pathContext:{author:"jamesclick"}}}});
+webpackJsonp([0xcba752ccf4a7],{504:function(a,o){a.exports={data:{markdownRemark:{html:"<p>Max,\nThanks for working to create one of the best programs for High School. Happy Birthday!</p>",frontmatter:{author:"jamesclick"}}},pathContext:{author:"jamesclick"}}}});
 //# sourceMappingURL=path---jamesclick-c1063532437ad8c1bf02.js.map
