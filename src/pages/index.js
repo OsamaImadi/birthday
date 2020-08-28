@@ -18,7 +18,7 @@ Card.a = Card.withComponent('article')
 
 export default () => (
   <Box.main align="center">
-    <Helmet title={`Hello, Fatima Ahsen!`} />
+    <Helmet title={`Hello, Fatima Ahsan!`} />
     
     <Bio /> 
     <Example /> 

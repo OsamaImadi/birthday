@@ -25,7 +25,7 @@ const CardImage = (props) => {
             <Card >
               <CardImg top width="100%" style={{"max-height": "230px"}} src={img1} alt="Card image cap" />
               <CardBody>
-                <CardTitle>Here is a happy picture of you.</CardTitle>
+                <CardTitle>This maroon shirt looks like fire..</CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -35,7 +35,7 @@ const CardImage = (props) => {
             <Card>
               <CardImg top width="100%" style={{"max-height": "230px"}}  src={img3} alt="Card image cap" />
               <CardBody>
-                <CardTitle>Here is another picture of you.</CardTitle>
+                <CardTitle>This is one of your best picture.</CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -47,7 +47,7 @@ const CardImage = (props) => {
             <Card >
               <CardImg top width="100%" style={{"max-height": "230px"}} src={img2} alt="Card image cap" />
               <CardBody>
-                <CardTitle>Here is a picture of younger you.</CardTitle>
+                <CardTitle>And you know why I love this look 😂</CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -57,7 +57,7 @@ const CardImage = (props) => {
             <Card>
               <CardImg top width="100%" style={{"max-height": "230px"}}  src={img4} alt="Card image cap" />
               <CardBody>
-                <CardTitle>Picture of you smiling, definitely not candid.</CardTitle>
+                <CardTitle>Looks like a natural smile but it's a pose. 😅</CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -69,7 +69,7 @@ const CardImage = (props) => {
             <Card >
               <CardImg top width="100%" style={{"max-height": "230px"}} src={img5} alt="Card image cap" />
               <CardBody>
-                <CardTitle>You again.</CardTitle>
+                <CardTitle>This looks like a lawn collection picture. But the model is better for sure. </CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -79,7 +79,8 @@ const CardImage = (props) => {
             <Card>
               <CardImg top width="100%" style={{"max-height": "230px"}}  src={img6} alt="Card image cap" />
               <CardBody>
-                <CardTitle>Another picture of you</CardTitle>
+                <CardTitle>I just love this simpler look. The most elegant look, by far.
+                </CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -91,7 +92,7 @@ const CardImage = (props) => {
             <Card >
               <CardImg top width="100%" style={{"max-height": "230px"}} src={img7} alt="Card image cap" />
               <CardBody>
-                <CardTitle>A collage of yours</CardTitle>
+                <CardTitle>It's a collage of your number of pictures. Zoom in to see yourself.</CardTitle>
               </CardBody>
             </Card>
           </div>
@@ -101,7 +102,7 @@ const CardImage = (props) => {
             <Card>
               <CardImg top width="100%" style={{"max-height": "230px"}}  src={img8} alt="Card image cap" />
               <CardBody>
-                <CardTitle>Another collage.</CardTitle>
+                <CardTitle>It's another collage of your pics because previous one didn't contain all.</CardTitle>
               </CardBody>
             </Card>
           </div>

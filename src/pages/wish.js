@@ -18,7 +18,7 @@ Card.a = Card.withComponent('article')
 
 export default () => (
   <Container maxWidth={36} p={3}>
-    <Helmet title={`Hello Fatima Ahsen!`} />
+    <Helmet title={`Hello Fatima Ahsan!`} />
     <SecondBio />
     <CardImage />
     {/* <Card.a bg="white" p={4} mx={[-3, -4]}>
